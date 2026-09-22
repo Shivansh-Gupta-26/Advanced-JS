@@ -47,4 +47,4 @@ getUser(1, function(error, user){
         console.log('Fetched Posts $(posts)');
          });
        });
-    });
+    }); 
